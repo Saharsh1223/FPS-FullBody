@@ -1,2 +1,2 @@
 # FPS-FullBody
-![](https://github.com/Saharsh1223/FPS-FullBody/blob/main/recording.gif)
+![img](https://i.imgur.com/Jd5j8b5.gif)
