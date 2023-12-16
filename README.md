@@ -1,2 +1,2 @@
 # FPS-FullBody
-![img](https://i.imgur.com/Jd5j8b5.gif)
+![img](https://i.imgur.com/vkn6x97.gif)
